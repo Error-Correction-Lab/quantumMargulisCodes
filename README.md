@@ -17,6 +17,7 @@ The parity-check matrices are stored in a sparse format: each row lists the posi
 ## Citation  
 If you use these codes in your research, please cite the relevant work:  
 
+```bibtex
 @misc{pacenti2025constructiondecodingquantummargulis,
       title={Construction and Decoding of Quantum Margulis Codes}, 
       author={Michele Pacenti and Dimitris Chytas and Bane Vasic},
